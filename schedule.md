@@ -24,7 +24,6 @@
         * DSFS Ch. 10 Working with Data (Manipulating Data, p.129-132)
         * DSFS Ch. 23 Databases and SQL
         * *TBD*
-- Lab 2 (Tue, Feb 07).  
 - Wed, Feb 08 Lecture 6:  Manipulating Tabular Data (SQL continued / Pandas)
     + Reading: *TBD*
 - Mon, Feb 13 Lecture 7:  Fuzzy matching.
