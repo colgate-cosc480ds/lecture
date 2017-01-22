@@ -3,9 +3,9 @@
 ## Introduction
 
 - Mon, Jan 23 Lecture 1:  Half-day introduction.
-    + Reading: none
+    + Reading: syllabus
 - Wed, Jan 25 Lecture 2: Introduction.
-    + Reading: DSFS Ch. 1, 4.
+    + Reading: DSFS Ch. 1-4.
 
 ## Data Management
 
@@ -75,7 +75,7 @@
 ## Visualization
 
 - Mon, Apr 10 Lecture 21: Visualization I
-    + Reading: 
+    + Reading: *TBD* 
 - Wed, Apr 12 Lecture 22: Visualization II
     + Reading: *TBD*
 
@@ -93,7 +93,7 @@
     + Reading: *TBD*
 - Mon, May 01 Lecture 27: Fairness
     + Reading: *TBD*
-- Wed, May 03 Lecture 28: **Project Presentations 2:45 - 6:30pm**
+- Wed, May 03 Lecture 28: :tada: **Project Presentations 2:45 - 6:30pm** :tada:
 	+ *Please do not make any commitments during this time window*
 - Tue, May 09 **Final Exam** time slot: 12:00 - 2:00pm.  *Hold for last quiz*
 - Tue, May 09 **Final Project Report Due** 
