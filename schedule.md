@@ -7,7 +7,7 @@
 - Wed, Jan 25 Lecture 2: Introduction.
     + Reading: DSFS Ch. 1-4.
 
-## Data Management
+## Data Processing
 
 - Mon, Jan 30 Lecture 3: Data acquisition, cleaning, exploration.
     + Reading:
@@ -38,7 +38,7 @@
 - Wed, Feb 22 Lecture 10: Statistical Inference
     + Reading: DSFS Ch. 7 Hypothesis and Inference
 
-## Advanced Topics Interlude: Clustering and NLP
+## Interlude: Clustering and NLP
 
 - Mon, Feb 27 Lecture 11: Clustering
     + Reading: DSFS Ch. 19 Clustering
@@ -78,7 +78,7 @@
 - Wed, Apr 12 Lecture 22: Visualization II
     + Reading: *TBD*
 
-## Advanced Topics
+## Additional Topics
 
 - Mon, Apr 17 Lecture 23: Network Analysis
     + Reading: *TBD*
