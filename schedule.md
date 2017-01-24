@@ -10,6 +10,7 @@
 query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf).  **Come to class prepared to discuss it.**  In particular, do the following:
         * Review the "Process of Data Science" slide from the first day's lecture.  Slides are available in this repo.  Align those steps with what was done in this study.  
         * Are any steps missing (or at least not discussed in this article)?
+        * The paper describes the model they used for this data.  What is the model?  (I realize some terminology may be unfamiliar, but do your best to try to make sense of it.)
         * Think critically about GFT.  What problem is it attempting to solve?  Is it an effective solution?  What are some potential limitations?
 
 
