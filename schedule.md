@@ -5,7 +5,13 @@
 - Mon, Jan 23 Lecture 1:  Half-day introduction.
     + Reading: syllabus
 - Wed, Jan 25 Lecture 2: Introduction.
-    + Reading: DSFS Ch. 1-4.
+    + Reading: DSFS Ch. 1-4. (Read these 4 chapters sometime this week.  Ch. 2 and 3 are important for next week's lab.)
+    + Reading: Read the following article: [Detecting influenza epidemics using search engine
+query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf).  **Come to class prepared to discuss it.**  In particular, do the following:
+        * Review the "Process of Data Science" slide from the first day's lecture.  Slides are available in this repo.  Align those steps with what was done in this study.  
+        * Are any steps missing (or at least not discussed in this article)?
+        * Think critically about GFT.  What problem is it attempting to solve?  Is it an effective solution?  What are some potential limitations?
+
 
 ## Data Processing
 
