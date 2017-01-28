@@ -20,6 +20,8 @@ fi
 
 export PATH="$MHOME/bin:$PATH"
 echo "export PATH=$MHOME/bin:\$PATH" >>  $VHOME/.bash_profile
+sudo hostname ubuntu
+
 echo "ubuntu" | sudo tee /etc/hostname
 
 
