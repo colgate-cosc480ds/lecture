@@ -19,8 +19,9 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
 - Mon, Jan 30 Lecture 3: Data acquisition, cleaning, exploration.
     + Reading:
         * DSFS Ch. 9 Getting Data
-        * DSFS Ch. 10 Working with Data (Exploring Your Data, p. 127-129)
+        * DSFS Ch. 10 Working with Data (Exploring Your Data, p. 121-127)
         * DSFS Ch. 10 Working with Data (Cleaning and Munging, p. 127-129)
+        * DSFS Ch. 10 Working with Data (Manipulating Data, p. 129-132)
         * [Python Regexp Tutorial](https://developers.google.com/edu/python/regular-expressions)
         * Supplemental: [another regexp tutorial](https://docs.python.org/2/howto/regex.html), docs for python [re module](https://docs.python.org/2/library/re.html#module-re)    
 - Wed, Feb 01 Lecture 4:  Data processing.
