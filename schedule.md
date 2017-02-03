@@ -25,15 +25,17 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
         * [Python Regexp Tutorial](https://developers.google.com/edu/python/regular-expressions)
         * Supplemental: [another regexp tutorial](https://docs.python.org/2/howto/regex.html), docs for python [re module](https://docs.python.org/2/library/re.html#module-re)    
 - Wed, Feb 01 Lecture 4:  Data processing.
-    + Reading: 
-        * *TBD*
+    + Reading: *None!*
 - Mon, Feb 06 Lecture 5:  Manipulating Tabular Data (SQL).
     + Reading: 
-        * DSFS Ch. 10 Working with Data (Manipulating Data, p.129-132)
-        * DSFS Ch. 23 Databases and SQL
-        * *TBD*
+        * *I'm going to assign several different readings related to SQL.  You don't need to read all of it in fine detail.  Below I annotate each reading with what you should get out of it.  You can also use my lectures as a guide -- if I don't mention it in lecture, I won't hold you accountable for knowing it.*
+        * DSFS Ch. 23 Databases and SQL -- *This provides a fairly quick overview of SQL and even uses python code to illustrate what each sql operation does.  This is a good place to start but it is missing useful features, such as the WITH keyword.*
+        * [Boat book, Ch. 2](https://moodle.colgate.edu/mod/resource/view.php?id=195388) -- *This provides a basic overview of the relational model.  This should be a quick read.  If you come out of this chapter knowing the following concepts -- relation, schema, key -- you're probably good.*
+        * [Boat book, Ch. 3](https://moodle.colgate.edu/mod/resource/view.php?id=195389) -- *This is a useful reference for SQL.  Sections 3.5 and 3.6 are less important.  Section 3.7 is essential.  Section 3.8 is about subqueries.  For this course, it probably suffices to focus on Section 3.8.6, which describes the WITH clause, a super useful feature.*
 - Wed, Feb 08 Lecture 6:  Manipulating Tabular Data (SQL continued / Pandas)
-    + Reading: *TBD*
+    + Reading: 
+        * The pandas library is a useful library for manipulating data in Python.  A book on it is available on moodle and I think the following chapter is the most useful.  It's unlikely that we will spend a lot of time on it in this course -- we simply don't have time and I want to focus on more fundamental, established languages like SQL.  However, I do want to bring it to your attention as a useful tool.  Therefore, consider this reading more as a reference rather than required reading.  The parts of pandas that I will expect you to know will be only those that I mention in class.
+        * *Reference*: [Ch. 5 of Python for Data Analysis](https://moodle.colgate.edu/mod/url/view.php?id=194037)
 - Mon, Feb 13 Lecture 7:  Fuzzy matching.
     + Reading: *TBD*
 
