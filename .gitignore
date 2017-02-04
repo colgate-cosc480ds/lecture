@@ -1,3 +1,4 @@
 lectures/**/*.key
 .DS_Store
 **/reflections.txt
+**/plan.md
