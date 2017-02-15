@@ -42,7 +42,9 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
 ## Computational Statistics
 
 - Wed, Feb 15 Lecture 8: Statistics
-    + Reading: DSFS Ch. 5 Statistics
+    + Reading: 
+        * DSFS Ch. 5 Statistics (*You may want to review DSFS Ch. 4, which covers some linear algebra concepts that come up in this chapter, like dot.*)
+        * [Simpspon's Paradox](http://vudlab.com/simpsons/)
 - Mon, Feb 20 Lecture 9: Probability
     + Reading: DSFS Ch. 6 Probability
 - Wed, Feb 22 Lecture 10: Statistical Inference
