@@ -4,3 +4,5 @@ lectures/**/*.key
 **/plan.md
 **/*.tex
 **/notes/
+.ipynb_checkpoints
+*.pyc
