@@ -47,64 +47,64 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
         * [Simpspon's Paradox](http://vudlab.com/simpsons/)
 - Mon, Feb 20 Lecture 9: Probability
     + Reading: DSFS Ch. 6 Probability
-- Wed, Feb 22 Lecture 10: Statistical Inference
+- Wed, Feb 22 **Quiz 1** (in class)
+    + *You will have the entire class period to complete the quiz though I expect you will finish in much less time than that.*
+- Mon, Feb 27 Lecture 10: Statistical Inference
     + Reading: DSFS Ch. 7 Hypothesis and Inference
+    
+## Interlude: NLP
 
-## Interlude: Clustering and NLP
-
-- Mon, Feb 27 Lecture 11: Clustering
-    + Reading: DSFS Ch. 19 Clustering
-- Wed, Mar 01 Lecture 12: Natural Language Processing
+- Wed, Mar 01 Lecture 11: Natural Language Processing
     + Reading: DSFS Ch. 20 Natural Language Processing
 
 ## Machine Learning
 
-- Mon, Mar 06 Lecture 13: Overview of Machine Learning
+- Mon, Mar 06 Lecture 12: Overview of Machine Learning
     + Reading: DSFS Ch. 11 Machine Learning
-- Wed, Mar 08 Lecture 14: Linear Regression I
+- Wed, Mar 08 Lecture 13: Linear Regression I
     + Reading: 
     	* DSFS Ch. 14 Simple Linear Regression 
     	* DSFS Ch. 8 Gradient Descent
 - Mon, Mar 13 **No class: spring break!**
 - Wed, Mar 15 **No class: spring break!**
-- Mon, Mar 20 Lecture 15: Linear Regression II
+- Mon, Mar 20 Lecture 14: Linear Regression II
     + Reading: 
     	* DSFS Ch. 15 Multiple Regression
     	* *TBD*
-- Wed, Mar 22 Lecture 16: Classification: Linear Disciminants, Perceptron, Logistic Regression
+- Wed, Mar 22 Lecture 15: Classification: Linear Disciminants, Perceptron, Logistic Regression
     + Reading: DSFS Ch. 16 Logistic Regression 
-- Mon, Mar 27 Lecture 17: k-NN and trees
+- Mon, Mar 27 Lecture 16: k-NN and trees
     + Reading: 
     	* DSFS Ch.12 k-NN
     	* DSFS Ch.17 Decision Trees
-- Wed, Mar 29 Lecture 18: Learning Theory
+- Wed, Mar 29 Lecture 17: Learning Theory
     + Reading: *TBD*
-- Mon, Apr 03 Lecture 19: Overfitting
+- Mon, Apr 03 Lecture 18: Overfitting
     + Reading: *TBD*
-- Wed, Apr 05 Lecture 20: *TBD*
+- Wed, Apr 05 Lecture 19: *TBD*
 
 ## Visualization
 
-- Mon, Apr 10 Lecture 21: Visualization I
+- Mon, Apr 10 Lecture 20: Visualization I
     + Reading: *TBD* 
-- Wed, Apr 12 Lecture 22: Visualization II
+- Wed, Apr 12 Lecture 21: Visualization II
     + Reading: *TBD*
 
 ## Additional Topics
 
-- Mon, Apr 17 Lecture 23: Network Analysis
+- Mon, Apr 17 Lecture 22: Network Analysis
     + Reading: *TBD*
-- Wed, Apr 19 Lecture 24: Streaming Data
+- Wed, Apr 19 Lecture 23: Streaming Data
     + Reading: *TBD*
 - Fri, Apr 21: NASC Colloquium Talk: *Data Analysis with Privacy Protection: Seeing the Forest But Not The Trees*
 	+ You are **required** to attend this event.
-- Mon, Apr 24 Lecture 25: Privacy I
+- Mon, Apr 24 Lecture 24: Privacy I
     + Reading: *TBD*
-- Wed, Apr 26 Lecture 26: Privacy II
+- Wed, Apr 26 Lecture 25: Privacy II
     + Reading: *TBD*
-- Mon, May 01 Lecture 27: Fairness
+- Mon, May 01 Lecture 26: Fairness
     + Reading: *TBD*
-- Wed, May 03 Lecture 28: :tada: **Project Presentations 2:45 - 6:30pm** :tada:
+- Wed, May 03 Lecture 27: :tada: **Project Presentations 2:45 - 6:30pm** :tada:
 	+ *Please do not make any commitments during this time window*
 - Tue, May 09 **Final Exam** time slot: 12:00 - 2:00pm.  *Hold for last quiz*
 - Tue, May 09 **Final Project Report Due** 
