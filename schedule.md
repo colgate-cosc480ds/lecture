@@ -25,7 +25,8 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
         * [Python Regexp Tutorial](https://developers.google.com/edu/python/regular-expressions)
         * Supplemental: [another regexp tutorial](https://docs.python.org/2/howto/regex.html), docs for python [re module](https://docs.python.org/2/library/re.html#module-re)    
 - Wed, Feb 01 Lecture 4:  Data processing.
-    + Reading: *None!*
+    + Reading: 
+        * Supplementary: Ch. 12.4 of Boat book.  Available [via moodle](https://moodle.colgate.edu/mod/resource/view.php?id=197855)
 - Mon, Feb 06 Lecture 5:  Manipulating Tabular Data (SQL).
     + Reading: 
         * *I'm going to assign several different readings related to SQL.  You don't need to read all of it in fine detail.  Below I annotate each reading with what you should get out of it.  You can also use my lectures as a guide -- if I don't mention it in lecture, I won't hold you accountable for knowing it.*
