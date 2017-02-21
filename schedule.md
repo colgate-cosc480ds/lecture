@@ -46,7 +46,9 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
         * DSFS Ch. 5 Statistics (*You may want to review DSFS Ch. 4, which covers some linear algebra concepts that come up in this chapter, like dot.*)
         * [Simpspon's Paradox](http://vudlab.com/simpsons/)
 - Mon, Feb 20 Lecture 9: Probability
-    + Reading: DSFS Ch. 6 Probability
+    + Reading: 
+        * DSFS Ch. 6 Probability
+        * Supplemental: [Chances Are](https://opinionator.blogs.nytimes.com/2010/04/25/chances-are/)
 - Wed, Feb 22 **Quiz 1** (in class)
     + *You will have the entire class period to complete the quiz though I expect you will finish in much less time than that.*
 - Mon, Feb 27 Lecture 10: Statistical Inference
