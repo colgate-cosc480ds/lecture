@@ -52,28 +52,25 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
         * Supplemental: [Chances Are](https://opinionator.blogs.nytimes.com/2010/04/25/chances-are/)
 - Wed, Feb 22 **Quiz 1** (in class)
     + *You will have the entire class period to complete the quiz though I expect you will finish in much less time than that.*
-- Mon, Feb 27 Lecture 10: Statistical Inference
+- Mon, Feb 27 Lecture 10: Probability, continued... 
+    + Reading: Review DSFS Ch. 6
+- Wed, Mar 01 Lecture 11: Hypothesis Testing
     + Reading: DSFS Ch. 7 Hypothesis and Inference
-    
-## Interlude: NLP
-
-- Wed, Mar 01 Lecture 11: Natural Language Processing
-    + Reading: DSFS Ch. 20 Natural Language Processing
+- Mon, Mar 06 Lecture 12: Linear Regression I & Gradient Descent
+    + Reading: 
+        * DSFS Ch. 14 Simple Linear Regression 
+        * DSFS Ch. 8 Gradient Descent
+- Tue, Mar 07 **Quiz 2** (in lab)
+- Wed, Mar 08 Lecture 13: Linear Regression II
+    + Reading: 
+        * DSFS Ch. 15 Multiple Regression
+- Mon, Mar 13 **No class: spring break!**
+- Wed, Mar 15 **No class: spring break!**
 
 ## Machine Learning
 
-- Mon, Mar 06 Lecture 12: Overview of Machine Learning
+- Mon, Mar 20 Lecture 14: Overview of Machine Learning
     + Reading: DSFS Ch. 11 Machine Learning
-- Wed, Mar 08 Lecture 13: Linear Regression I
-    + Reading: 
-    	* DSFS Ch. 14 Simple Linear Regression 
-    	* DSFS Ch. 8 Gradient Descent
-- Mon, Mar 13 **No class: spring break!**
-- Wed, Mar 15 **No class: spring break!**
-- Mon, Mar 20 Lecture 14: Linear Regression II
-    + Reading: 
-    	* DSFS Ch. 15 Multiple Regression
-    	* *TBD*
 - Wed, Mar 22 Lecture 15: Classification: Linear Disciminants, Perceptron, Logistic Regression
     + Reading: DSFS Ch. 16 Logistic Regression 
 - Mon, Mar 27 Lecture 16: k-NN and trees
