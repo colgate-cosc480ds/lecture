@@ -66,7 +66,8 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
             - SGD is preferred for large datasets
             - SGD requires an *additive* target function
         * What is the role of step size in GD or SGD?  How do you choose the "right" step size?
-        * In simple linear regression, given values for `alpha` and `beta` and a small dataset (say 3 data points), you should be able to compute how well the model fits the data.
+        * In simple linear regression, given values for `alpha` and `beta` how do you measure how well the model fits the data?
+        * Given values for `alpha` and `beta` and a small dataset (say 3 data points), you should be able to compute how well the model fits the data.
         * Taking Ch. 8 and Ch. 14 together, the book offers three different ways to fit a simple linear regression model.  What are they?
         * If you were to use GD to fit a simple linear regression model, what would the target function `target_fn` be?
 - Tue, Mar 07 **Quiz 2** (in lab)
