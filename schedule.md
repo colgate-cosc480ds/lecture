@@ -60,6 +60,17 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
     + Reading: 
         * DSFS Ch. 14 Simple Linear Regression 
         * DSFS Ch. 8 Gradient Descent
+    + Questions
+        * Which of the following are differences between gradient descent (GD) and stochastic gradient descent (SGD)?
+            - GD is regular gradient descent whereas SGD adds random noise to the gradient to help avoid local minima/maxima
+            - SGD is preferred for large datasets
+            - SGD requires an *additive* target function
+        * What is the role of step size in GD or SGD?  How do you choose the "right" step size?
+        * In simple linear regression, given values for `alpha` and `beta` and a small dataset (say 3 data points), you should be able to compute how well the model fits the data.
+        * Taking Ch. 8 and Ch. 14 together, the book offers three different ways to fit a simple linear regression model.  What are they?
+        * If you were to use GD to fit a simple linear regression model, what would the target function `target_fn` be?
+
+
 - Tue, Mar 07 **Quiz 2** (in lab)
 - Wed, Mar 08 Lecture 13: Linear Regression II
     + Reading: 
