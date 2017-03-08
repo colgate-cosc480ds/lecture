@@ -1,6 +1,7 @@
 lectures/**/*.key
 .DS_Store
-**/reflections.txt
+**/reflection*.txt
+**/reflection*.md
 **/plan.md
 **/*.tex
 **/notes/
