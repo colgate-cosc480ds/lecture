@@ -88,7 +88,7 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
 - Wed, Mar 22 Lecture 15: Overview of Machine Learning
     + Reading: 
         * DSFS Ch. 11 Machine Learning
-        * Supplemental: Ch. 3 of [ISL](http://www-bcf.usc.edu/~gareth/ISL/)
+        * Supplemental: Ch. 2 of [ISL](http://www-bcf.usc.edu/~gareth/ISL/)
 - Mon, Mar 27 Lecture 16: Classification: Linear Disciminants, Perceptron, Logistic Regression
     + Reading: DSFS Ch. 16 Logistic Regression 
 - Wed, Mar 29 Lecture 17: k-NN and trees
