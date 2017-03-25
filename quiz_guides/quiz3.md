@@ -1,6 +1,6 @@
-# Quiz 2
+# Quiz 3
 
-The second quiz will be held **in lab on Tuesday, 3/7**.  The topic will be SQL (Lectures 5 and 6 and Lab 3).  Topics such as statistics, probability, etc. will *not* be on the quiz.
+The third quiz will be held **in lab on Tuesday, 3/7**.  The topic will be SQL (Lectures 5 and 6 and Lab 3).  Topics such as statistics, probability, etc. will *not* be on the quiz.
 
 Lab 3 is a good study guide.  If you want additional practice, you can use the queries below.  They are written for a database that is defined in a [file](pizza_create.sql) called `pizza_create.sql`.  You can set up a database for it following the instructions from Lab 3 (create a database and then populate it with schema and data from `pizza_create.sql`)
 
