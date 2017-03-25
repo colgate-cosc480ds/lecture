@@ -120,4 +120,5 @@ Here are some potential datasets you might consider.  You are free to find/use o
 	* [Google Fusion Tables](https://support.google.com/fusiontables/answer/2571232)
 	* [Interesting data sets for statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
 - Data from data competitions (e.g., Kaggle)
-
+- [Tableau datasets for students](https://community.tableau.com/community/students/overview)
+- [CORGIS The Collection of Really Great, Interesting, Situated Datasets](http://think.cs.vt.edu/corgis/csv/index.html)
