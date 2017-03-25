@@ -89,16 +89,25 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
     + Reading: 
         * DSFS Ch. 11 Machine Learning
         * Supplemental: Ch. 2 of [ISL](http://www-bcf.usc.edu/~gareth/ISL/)
-- Mon, Mar 27 Lecture 16: Classification: Linear Disciminants, Perceptron, Logistic Regression
-    + Reading: DSFS Ch. 16 Logistic Regression 
-- Wed, Mar 29 Lecture 17: k-NN and trees
+- Mon, Mar 27 Lecture 16: Parametric: Perceptron, Logistic Regression, Naive Bayes
+    + Reading: 
+        * DSFS Ch. 13 Naive Bayes    
+        * DSFS Ch. 16 Logistic Regression (up to but not including Support Vector Machines)
+        * ISL Ch. 4-4.3 Logistic Regression (this overlaps with Ch. 16 considerably but you are encouraged to read it anyway as it will reinforce concepts from DSFS Ch. 16 and add a little more perspective.)
+        * Supplemental: ISL Ch. 2.2.3 (p. 37-39 about Bayes optimal classifier; Naive Bayes is a "naive" version of the Bayes optimal classifier)
+- Wed, Mar 29 Lecture 17: Non-parametric: k-NN and trees
     + Reading: 
         * DSFS Ch.12 k-NN
         * DSFS Ch.17 Decision Trees
+        * ISL Ch. 8-8.1 Tree-Based Methods (rest of chapter is supplemental)
+        * Supplemental: ISL Ch. 2.2.3 (section on k-NN)
 - Mon, Apr 03 Lecture 18: Learning Theory
-    + Reading: *TBD*
-- Wed, Apr 05 Lecture 19: Overfitting
-    + Reading: *TBD*
+    + Reading: *Willi be posted on course website*
+- Wed, Apr 05 Lecture 19: Overfitting, Selection, Cross Validation
+    + Reading: 
+        * ISL Ch. 5-5.1 Cross Validation
+        * ISL Ch. 6-6.1 (In Ch. 6.1.3, Choosing the Optimal Model, it describes two approaches -- indirect and direct.  You can skip the indirect approach (p. 210-213) and focus on the direct, which is described under the section heading Validation and Cross-Validation on starting on p.213)
+
 
 ## Visualization
 
