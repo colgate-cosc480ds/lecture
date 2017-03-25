@@ -102,7 +102,7 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
         * ISL Ch. 8-8.1 Tree-Based Methods (rest of chapter is supplemental)
         * Supplemental: ISL Ch. 2.2.3 (section on k-NN)
 - Mon, Apr 03 Lecture 18: Learning Theory
-    + Reading: *Willi be posted on course website*
+    + Reading: Ch. 18.5 from Russell & Norvig's Artificial Intelligence, available on [moodle](https://moodle.colgate.edu/mod/resource/view.php?id=201282)
 - Wed, Apr 05 Lecture 19: Overfitting, Selection, Cross Validation
     + Reading: 
         * ISL Ch. 5-5.1 Cross Validation
