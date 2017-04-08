@@ -112,9 +112,17 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
 ## Visualization
 
 - Mon, Apr 10 Lecture 20: Visualization I
-    + Reading: *TBD* 
+    + Reading: 
+        * From Nathan Yau's *Data Points*, read [Ch. 3 Representing Data](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf)
 - Wed, Apr 12 Lecture 21: Visualization II
-    + Reading: *TBD*
+    + Reading: 
+        * [A Layered Grammar of Graphics](http://vita.had.co.nz/papers/layered-grammar.pdf), by Hadley Wickham
+        * [Misleading axes](http://callingbullshit.org/tools/tools_misleading_axes.html)
+        * [Proportional Ink](http://callingbullshit.org/tools/tools_proportional_ink.html)
+    + Supplemental readings on viz:
+        * Dynamic graphics [Watch Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
+        * [Chart Rules to Follow](http://flowingdata.com/2015/08/11/real-chart-rules-to-follow/)
+
 
 ## Additional Topics
 
