@@ -108,12 +108,11 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
         * ISL Ch. 5-5.1 Cross Validation
         * ISL Ch. 6-6.1 (In Ch. 6.1.3, Choosing the Optimal Model, it describes two approaches -- indirect and direct.  You can skip the indirect approach (p. 210-213) and focus on the direct, which is described under the section heading Validation and Cross-Validation on starting on p.213)
 
-
 ## Visualization
 
 - Mon, Apr 10 Lecture 20: Visualization I
     + Reading: 
-        * From Nathan Yau's *Data Points*, read [Ch. 3 Representing Data](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf)
+        * From Nathan Yau's *Data Points*, read [Ch. 3 Representing Data](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf) also available online through the Colgate Library.
 - Wed, Apr 12 Lecture 21: Visualization II
     + Reading: 
         * [A Layered Grammar of Graphics](http://vita.had.co.nz/papers/layered-grammar.pdf), by Hadley Wickham
@@ -122,21 +121,29 @@ query data](http://www.nature.com/nature/journal/v457/n7232/pdf/nature07634.pdf)
     + Supplemental readings on viz:
         * Dynamic graphics [Watch Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
         * [Chart Rules to Follow](http://flowingdata.com/2015/08/11/real-chart-rules-to-follow/)
-
+        * Additional chapters of Nathan Yau's *Data Points* (see links above)
 
 ## Additional Topics
 
-- Mon, Apr 17 Lecture 22: Network Analysis
-    + Reading: *TBD*
-- Wed, Apr 19 Lecture 23: Streaming Data
-    + Reading: *TBD*
+- Mon, Apr 17 Lecture 22: Privacy I
+    + Reading: these readings are *supplemental*
+        * Intuition, no math: [Differential Privacy: A Primer for a Non-technical Audience (Preliminary Version)](https://privacytools.seas.harvard.edu/publications/differential-privacy-primer-non-technical-audience-preliminary-version)
+        * Math included: [A Firm Foundation for Private Data Analysis](http://cacm.acm.org/magazines/2011/1/103226-a-firm-foundation-for-private-data-analysis/fulltext)
+- Wed, Apr 19 Lecture 23: Mini-presentations / Privacy II
+    + During this class, each group will give a brief project presentation (see project page for details)
+    + After the presentations, we can wrap up privacy.
 - Fri, Apr 21: NASC Colloquium Talk: *Data Analysis with Privacy Protection: Seeing the Forest But Not The Trees*
 	+ You are **required** to attend this event.
-- Mon, Apr 24 Lecture 24: Privacy I
-    + Reading: *TBD*
-- Wed, Apr 26 Lecture 25: Privacy II
-    + Reading: *TBD*
-- Mon, May 01 Lecture 26: Fairness
+- Mon, Apr 24 Lecture 24: Clustering
+    + Reading: 
+        * DSFS Ch. 19
+        * Supplemental: ISL Ch. 10.3 (this covers the same material as Ch. 19 of DSFS)
+- Wed, Apr 26 Lecture 25: Fairness I
+    + Reading: 
+        * [When Algorithms Discriminate](https://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html?_r=0)
+        * [When Discrimination Is Baked Into Algorithms](https://www.theatlantic.com/business/archive/2015/09/discrimination-algorithms-disparate-impact/403969/)
+        * Introduction and Part I of Barocas & Selbst [Big Data's Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899) -- *Please come to class ready to discuss the ways in which a data mining (aka machine learning) algorithm can discriminate.*
+- Mon, May 01 Lecture 26: Fairness II
     + Reading: *TBD*
 - Wed, May 03 Lecture 27: :tada: **Project Presentations 2:45 - 6:30pm** :tada:
 	+ *Please do not make any commitments during this time window*

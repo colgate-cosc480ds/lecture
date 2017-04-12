@@ -57,9 +57,19 @@ The deliverable is a single PDF file containing one or more visualizations of yo
 
 ### Mini presentation
 
-Following the visualization lab, your team will be asked to give a brief (2 minute max!) presentation in class.  For this presentation, it is acceptable for one person to present on behalf of the group.  Your presentation should ideally include the visualization developed in the previous lab.  Share your work in progress with the rest of the class!
+Following the visualization lab, your team will be asked to give a brief (4 minute max!) presentation in class.  For this presentation, it is acceptable for one person to present on behalf of the group.  
 
-You must send me a PDF copy of any slides you wish to present *before* class.
+Your presentation should answer the following questions:
+
+1. What is your data?  Be sure to explain this clearly in terms that someone who is unfamiliar with the domain will understand.  
+2. What is your goal?  What are you ultimately hoping to get out of analyzing the data?
+3. What have you accomplished at this point?  Ideally, you will share at least one interesting finding.
+4. What are the 1-3 most critical tasks that you must complete for your project to be successful?
+5. Your project is expected to use elements from all aspects of the data science process.  Identify the areas where your project is strongest.  
+
+(You should also identify any areas where your project may be "light."  While you don't need to mention these during your presentation, you should come talk to me if you have any concerns about being too light in any one area.) 
+
+Please send me a PDF copy of any slides you wish to present *before* class.
 
 ### Final presentation
 
